@@ -2,6 +2,7 @@ name: braintrust-cs
 favicon: null
 layout_spectrum: 0.7379048352595419
 typography_spectrum: 0.3732643462717533
+title: Brain Trust CS
 cta:
   domain: null
   bucket: null
