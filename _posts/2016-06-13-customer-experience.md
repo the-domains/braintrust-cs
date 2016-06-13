@@ -5,45 +5,29 @@ inNav: true
 inLanguage: null
 keywords: []
 description: >-
-  Brain Trust CS participa en varios niveles, en el I Foro de Experiencia de
-  Cliente que tendrá lugar el viernes día 19 en el Aula Magna del Instituto de
-  Empresa de Madrid.
-datePublished: '2016-06-13T18:24:59.958Z'
-dateModified: '2016-06-13T18:22:34.294Z'
+  Los Próximos días 10, 11 y 12 de Mayo, tendrá lugar en el Instituto de Empresa
+  de Madrid el Programa Executive "Customer Experience Management / Como
+  incrementar las ventas gestionando la experiencia de cliente" .
+datePublished: '2016-06-13T18:25:05.439Z'
+dateModified: '2016-06-13T18:15:02.752Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-13-customer-experience.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: customer-experience/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae8c2ee4-416a-4391-bfa5-eabd6b1bb752.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64280a12-eb3d-445f-b101-c91d944c563e.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efbdbe1b-6733-47a4-b604-f84b3fa4712e.jpg)
 
-Brain Trust CS participa en varios niveles, en el I Foro de Experiencia de Cliente que tendrá lugar el viernes día 19 en el Aula Magna del Instituto de Empresa de Madrid.
+Los Próximos días 10, 11 y 12 de Mayo, tendrá lugar en el Instituto de Empresa de Madrid el Programa Executive "[Customer Experience Management / Como incrementar las ventas gestionando la experiencia de cliente"][0] .
 
-Por un lado, estarán presentes sus consultores, profesores del curso Executive "Customer Experience Management" del IE y coatures del libro publicado por LID Editorial "Experiencia de Cliente" Jose Luis Ruiz, Tomás Ibañez, Jose Manuel Brell y Manuel Suárez. Además, Tomas Ibañez participará activamente moderando la Mesa redonda posterior junto con Marcos González de la Hoz.
+En el programa, codirigido por Jose Luis Ruiz, Socio de Brain Trust responsable de las prácticas de Transformación Digital, UX y Customer Experience, intervienen varios socios y asociados de Brain Trust CS, expertos en Customer Experience Management.
 
-El programa para la sesión es el siguiente:
+En el programa se revisará la metodología CEM y se presentarán varios casos de éxito en los que Brain Trust, como empresa experta en la implantación de CEM ha realizado en varias empresas, tanto en España como en Latinoamérica.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d032b5dd-7740-4778-8c0d-12290e00502f.png)
 
-9:00 a 11:00h:
-
-* Ponencia: La innovación continua como pilar fundamental en la estrategia de Experiencia de Cliente en la compañía, con Almudena Román, CEO ING Direct, y prologuista del libro "Experiencia de Cliente" del IE Publishing & LID Editorial.
-* Ponencia: Cómo liderar una empresa desde la orientación de la Experiencia de Cliente con Susana Voces, CEO eBay España.
-* Ponencia: Cómo liderar un proceso de cambio cultural hacia el Customer Experience Management con Enrique Huerta, CEO LIBERTY SEGUROS.
-
-11:30 a 13:00h: 
-
-Mesa redonda: Cuáles son y cómo asumir los retos del Customer Experience para el 2016\.
-
-* Ramón Ramos, Customer Relations Manager Spain, Ikea.
-* Juan Miguel Estallo, Liberty Seguros.
-* Daniel Sánchez, Sub director de Clientes Correos España, Correos España.
-* Jorge Martínez Arrollo, presidente de la Asociación Española para el desarrollo de la Experiencia de Cliente (DEC) y Global Brand Customer Experience Manager, Banco Santander.
-
-Moderadores:
-
-* Marcos González de La-Hoz, Director del Programa Customer Experience Management, profesor de Excelencia Comercial y presidente del "IE Customer Experience Management Club".
-* Tomás Ibañez, Co-Director y profesor asociado del Programa "Customer Experience Management" 2016, Coautor del libro "Experiencia de Cliente" de IE Publising-LID Editorial, Director Asociado de Brain Trust Consulting Services y Bloguero "asiduo" en el grupo de Linkedin "IE Customer Experience Club".
+[0]: http://en%20el%20instituto%20de%20empresa%20de%20madrid/
