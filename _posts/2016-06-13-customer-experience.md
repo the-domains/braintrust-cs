@@ -5,11 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: >-
-  Los Próximos días 10, 11 y 12 de Mayo, tendrá lugar en el Instituto de Empresa
-  de Madrid el Programa Executive "Customer Experience Management / Como
-  incrementar las ventas gestionando la experiencia de cliente" .
-datePublished: '2016-06-13T19:38:36.737Z'
-dateModified: '2016-06-13T19:38:35.503Z'
+  Brain Trust CS participa en varios niveles, en el I Foro de Experiencia de
+  Cliente que tendrá lugar el viernes día 19 en el Aula Magna del Instituto de
+  Empresa de Madrid.
+datePublished: '2016-06-13T19:38:38.640Z'
+dateModified: '2016-06-13T19:38:38.054Z'
 title: ''
 author:
   - name: ''
@@ -18,16 +18,32 @@ sourcePath: _posts/2016-06-13-customer-experience.md
 authors: []
 publisher: null
 starred: false
-url: customer-experience/index.html
+url: clientes/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e149ebee-f5ba-42a7-98ea-3e0974a13fa0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c348d99-24fc-4aa5-bdb2-7648b04e4cc6.jpg)
 
-Los Próximos días 10, 11 y 12 de Mayo, tendrá lugar en el Instituto de Empresa de Madrid el Programa Executive "[Customer Experience Management / Como incrementar las ventas gestionando la experiencia de cliente"][0] .
+Brain Trust CS participa en varios niveles, en el I Foro de Experiencia de Cliente que tendrá lugar el viernes día 19 en el Aula Magna del Instituto de Empresa de Madrid.
 
-En el programa, codirigido por Jose Luis Ruiz, Socio de Brain Trust responsable de las prácticas de Transformación Digital, UX y Customer Experience, intervienen varios socios y asociados de Brain Trust CS, expertos en Customer Experience Management.
+Por un lado, estarán presentes sus consultores, profesores del curso Executive "Customer Experience Management" del IE y coatures del libro publicado por LID Editorial "Experiencia de Cliente" Jose Luis Ruiz, Tomás Ibañez, Jose Manuel Brell y Manuel Suárez. Además, Tomas Ibañez participará activamente moderando la Mesa redonda posterior junto con Marcos González de la Hoz.
 
-En el programa se revisará la metodología CEM y se presentarán varios casos de éxito en los que Brain Trust, como empresa experta en la implantación de CEM ha realizado en varias empresas, tanto en España como en Latinoamérica.
+El programa para la sesión es el siguiente:
 
-[0]: http://en%20el%20instituto%20de%20empresa%20de%20madrid/
+9:00 a 11:00h:
+
+* Ponencia: La innovación continua como pilar fundamental en la estrategia de Experiencia de Cliente en la compañía, con Almudena Román, CEO ING Direct, y prologuista del libro "Experiencia de Cliente" del IE Publishing & LID Editorial.
+* Ponencia: Cómo liderar una empresa desde la orientación de la Experiencia de Cliente con Susana Voces, CEO eBay España.
+* Ponencia: Cómo liderar un proceso de cambio cultural hacia el Customer Experience Management con Enrique Huerta, CEO LIBERTY SEGUROS.
+
+11:30 a 13:00h: 
+
+Mesa redonda: Cuáles son y cómo asumir los retos del Customer Experience para el 2016\.
+
+* Ramón Ramos, Customer Relations Manager Spain, Ikea.
+* Juan Miguel Estallo, Liberty Seguros.
+* Daniel Sánchez, Sub director de Clientes Correos España, Correos España.
+* Moderadores:
+
+* Marcos González de La-Hoz, Director del Programa Customer Experience Management, profesor de Excelencia Comercial y presidente del "IE Customer Experience Management Club".
+* Tomás Ibañez, Co-Director y profesor asociado del Programa "Customer Experience Management" 2016, Coautor del libro "Experiencia de Cliente" de IE Publising-LID Editorial, Director Asociado de Brain Trust Consulting Services y Bloguero "asiduo" en el grupo de Linkedin "IE Customer Experience Club".
