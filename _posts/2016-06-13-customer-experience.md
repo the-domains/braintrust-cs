@@ -8,18 +8,20 @@ description: >-
   Brain Trust CS participa en varios niveles, en el I Foro de Experiencia de
   Cliente que tendrá lugar el viernes día 19 en el Aula Magna del Instituto de
   Empresa de Madrid.
-datePublished: '2016-06-13T01:49:57.818Z'
-dateModified: '2016-06-13T01:49:24.065Z'
+datePublished: '2016-06-13T18:12:44.288Z'
+dateModified: '2016-06-13T18:12:18.063Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-13-customer-experience.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-13-customer-experience.md
 url: customer-experience/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae8c2ee4-416a-4391-bfa5-eabd6b1bb752.png)
+
 Brain Trust CS participa en varios niveles, en el I Foro de Experiencia de Cliente que tendrá lugar el viernes día 19 en el Aula Magna del Instituto de Empresa de Madrid.
 
 Por un lado, estarán presentes sus consultores, profesores del curso Executive "Customer Experience Management" del IE y coatures del libro publicado por LID Editorial "Experiencia de Cliente" Jose Luis Ruiz, Tomás Ibañez, Jose Manuel Brell y Manuel Suárez. Además, Tomas Ibañez participará activamente moderando la Mesa redonda posterior junto con Marcos González de la Hoz.
