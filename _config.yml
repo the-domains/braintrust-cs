@@ -1,0 +1,28 @@
+name: braintrust-cs
+favicon: null
+layout_spectrum: 0.7379048352595419
+typography_spectrum: 0.3732643462717533
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.0897929014172405
+  lightness: 0.8850429751910269
+  saturation: 0.3010028977878392
+  rhythmicContrast: 0.18105232249945402
+purpose: []
