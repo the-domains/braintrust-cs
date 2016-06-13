@@ -4,21 +4,21 @@
         <description><![CDATA[Brain Trust CS]]></description>
         <link>https://thegrid.ai/braintrust-cs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 18:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 18:16:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/braintrust-cs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Customer Experience]]></title>
+            <description><![CDATA[<p>Los Próximos días 10, 11 y 12 de Mayo, tendrá lugar en el Instituto de Empresa de Madrid el Programa Executive "Customer Experience Management / Como incrementar las ventas gestionando la experiencia de cliente" .</p>]]></description>
+            <link>https://thegrid.ai/braintrust-cs/customer-experience/index.html</link>
+            <guid isPermaLink="false">34a6a1bf-93e7-40c8-865f-bdab52242dab</guid>
+            <pubDate>Mon, 13 Jun 2016 18:14:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Customer Experience]]></title>
             <description><![CDATA[<p>Brain Trust CS participa en varios niveles, en el I Foro de Experiencia de Cliente que tendrá lugar el viernes día 19 en el Aula Magna del Instituto de Empresa de Madrid.</p>]]></description>
             <link>https://thegrid.ai/braintrust-cs/customer-experience/index.html</link>
             <guid isPermaLink="false">0f7d2dcd-3135-4ad8-a672-051773bcf02d</guid>
             <pubDate>Mon, 13 Jun 2016 18:12:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Customer Experience]]></title>
-            <description><![CDATA[<p>Los Próximos días 10, 11 y 12 de Mayo, tendrá lugar en el Instituto de Empresa de Madrid el Programa Executive "Customer Experience Management / Como incrementar las ventas gestionando la experiencia de cliente" .</p>]]></description>
-            <link>https://thegrid.ai/braintrust-cs/customer-experience/index.html</link>
-            <guid isPermaLink="false">34a6a1bf-93e7-40c8-865f-bdab52242dab</guid>
-            <pubDate>Mon, 13 Jun 2016 01:45:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
