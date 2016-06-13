@@ -1,20 +1,4 @@
-name: braintrust-cs
-favicon: null
-layout_spectrum: 0.76103
 typography_spectrum: 0.84056
-title: Brain Trust CS
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#041839'
@@ -26,4 +10,24 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.76103
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Gabriel Pagola
+  email: gpagola@braintrust-cs.com
+  url: www.braintrust-cs.com
+name: braintrust-cs
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Brain Trust CS
 purpose: []
