@@ -8,10 +8,12 @@ description: >-
   Los Próximos días 10, 11 y 12 de Mayo, tendrá lugar en el Instituto de Empresa
   de Madrid el Programa Executive "Customer Experience Management / Como
   incrementar las ventas gestionando la experiencia de cliente" .
-datePublished: '2016-06-13T19:02:44.368Z'
-dateModified: '2016-06-13T19:02:42.018Z'
+datePublished: '2016-06-13T19:07:02.893Z'
+dateModified: '2016-06-13T19:03:30.319Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-13-customer-experience.md
 authors: []
 publisher: null
